@@ -3,7 +3,7 @@ print("hello world")
 # JS let or const, boolean or all other ones
 name = "Kevin"
 last_name = "Aguinaga"
-age = 100
+age = 32
 found = True
 print ("My age is "+ str(age))
 
@@ -15,7 +15,7 @@ if age < 99:
 elif age > 101:
     print("Congrats youre a century old")
 else: 
-    print("I dont know how you get here!")
+    "I dont know how you get here!"
     
 print("Im outside of the if statement")
 
